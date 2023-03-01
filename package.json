@@ -1,0 +1,15 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "data collection for wines",
+  "main": "web_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.2"
+  }
+}
